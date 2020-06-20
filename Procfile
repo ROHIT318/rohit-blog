@@ -1,1 +1,1 @@
-web: gunicorn rohitblogherokuapp.wsgi --log-file -
+web: gunicorn rohitblog.wsgi --log-file -
